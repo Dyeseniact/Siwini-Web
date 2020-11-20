@@ -1,0 +1,52 @@
+.section-container-perfil{
+    margin-top: 6%;
+    margin-right: 2cm;
+    margin-left: 2cm;
+    margin-bottom: 5cm;
+}
+.section-tittle{
+    margin-top: 4%;
+    text-align: center;
+}
+.section-ambulance{
+    margin-top: 20px;
+    margin-right: 2cm;
+    margin-left: 2cm;
+   
+    
+}
+.section-table{
+    margin-top: 20px;
+    margin-right: 2cm;
+    margin-left: 2cm;
+}
+
+.section-add-ambulance{
+    margin-top: 40px;
+    margin-right: 2cm;
+    margin-left: 2cm;
+
+}
+.btn-space{
+    margin-left: 20px;
+}
+.btn-space-two{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.h2-add-ambulance{
+    text-align: center;
+    margin-bottom: 1cm;
+    color: rgb(202, 58, 58);
+}
+.section-solicitudes{
+    margin-top: 1cm;
+    margin-right: 1.5cm;
+    margin-left: 1.5cm;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.section-solicitudes-conter{
+    margin-right: 6px;
+}
